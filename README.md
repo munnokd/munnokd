@@ -42,7 +42,9 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munnokd&show_icons=true&locale=en&layout=compact" alt="munnokd" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munnokd&show_icons=true&locale=en&layout=compact" alt="munnokd" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munnokd&show_icons=true&locale=en" alt="munnokd" /></p>
 
