@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kalpprajapati8)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalp-prajapati-0409a020a)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kalp.prajapati.735)
@@ -27,7 +26,6 @@
   [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kalp2002prajapa1)
   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@kalpprajapati)
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -43,9 +41,12 @@
 </p>
 
 <p>
+  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munnokd&show_icons=true&locale=en&layout=compact" alt="munnokd" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munnokd&show_icons=true&locale=en" alt="munnokd" /></p>
+<p>&nbsp;
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=munnokd&show_icons=true&locale=en" alt="munnokd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munnokd&" alt="munnokd" /></p>
