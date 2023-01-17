@@ -1,11 +1,8 @@
 <h1 >Kalp Prajapati</h1>
 <h5 }>I am Kalp Prajapati from India. I am software engineer graduate having good knowledge of Java and Frontend development. Ability to learn new technologies quickly and efficiently work upon them. I'm interested in contributing to open source projects.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munnokd&label=Profile%20views&color=0e75b6&style=flat" alt="munnokd" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/kalpprajapati8" target="blank"><img src="https://img.shields.io/twitter/follow/kalpprajapati8?logo=twitter&style=for-the-badge" alt="kalpprajapati8" /></a> </p>
-<!-- 
-- 🌱 I’m currently learning **Full Stack Development in MERN** -->
+<!-- - 🌱 I’m currently learning **Frontend Development in ** -->
 
 <!-- - 💬 Ask me about **react js** -->
 
@@ -22,6 +19,7 @@
   [	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__k_d_2525)
   
 </p>
+
 ## Tech and Languages 
 <p align="left"> 
   
