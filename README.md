@@ -1,10 +1,6 @@
-<h1 >Kalp Prajapati</h1>
-<h5 }>I am Kalp Prajapati from India. I am software engineer graduate having good knowledge of Java and Frontend development. Ability to learn new technologies quickly and efficiently work upon them. I'm interested in contributing to open source projects.</h3>
-
-
-<!-- - 🌱 I’m currently learning **Frontend Development in ** -->
-
-<!-- - 💬 Ask me about **react js** -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Popins&weight=600&size=22&duration=6000&pause=1000&color=2784F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Kalp+Prajapati.;I'm+Software+Developer.)](https://git.io/typing-svg)
+<hr>
+<h3>Open Source Contributor</h3>
 
 - 📫 How to reach me **kalp2002prajapati@gmail.com**
 
@@ -42,6 +38,6 @@
 <p>
 </p>
 <div >
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=munnokd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="munnokd" /></p>
-  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=dark&hide_border=false" alt="munnokd" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=munnokd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="munnokd" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=dark&hide_border=false" alt="munnokd" /></p>
 </div>
