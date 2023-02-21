@@ -35,9 +35,7 @@
   
 </p>
 <h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
-<p>
-</p>
-<div >
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=munnokd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="munnokd" /></p>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=dark&hide_border=false" alt="munnokd" /></p>
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=munnokd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=dark&hide_border=false)<br/>
