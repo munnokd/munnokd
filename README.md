@@ -2,13 +2,12 @@
 <hr>
 <h3>Open Source Contributor</h3>
 
-- 📫 How to reach me **kalp2002prajapati@gmail.com**
-
-- 📄 Know about my experiences [Kalp_Prajapati](https://drive.google.com/file/d/1hIXjHMGlYQdMcNf5UXSxduXPSFy9lp_O/view?usp=share_link)
+[![Resume](https://img.shields.io/badge/My_Resume-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://drive.google.com/file/d/1hIXjHMGlYQdMcNf5UXSxduXPSFy9lp_O/view?usp=share_link)
 
 ## Let's Connect 
 <p align="left">
-
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalp2002prajapati@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kalpprajapati8)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalp-prajapati-0409a020a)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kalp.prajapati.735)
