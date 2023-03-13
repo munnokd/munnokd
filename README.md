@@ -45,5 +45,3 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=dark&hide_border=false)
   
 </div>
-
-![snake gif](https://github.com/munnokd/munnokd/blob/output/github-contribution-grid-snake.gif)
