@@ -2,7 +2,7 @@
 <hr>
 <h3>Open Source Contributor</h3>
   
-[![Resume](https://img.shields.io/badge/My_Resume-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://drive.google.com/file/d/1hIXjHMGlYQdMcNf5UXSxduXPSFy9lp_O/view?usp=share_link)
+[![Resume](https://img.shields.io/badge/My_Resume-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://drive.google.com/file/d/1I-gnZKiJ4xvJxmMwDDE3IA0f6vnIfdNG/view?usp=sharing)
 
 ## Let's Connect 
 <p align="left">
