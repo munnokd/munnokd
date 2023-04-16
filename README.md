@@ -2,7 +2,6 @@
 <hr>
 <h3>Open Source Contributor</h3>
   
-[![Resume](https://img.shields.io/badge/My_Resume-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://drive.google.com/file/d/1I-gnZKiJ4xvJxmMwDDE3IA0f6vnIfdNG/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kalp-prajapati.web.app/)
 
 ## Let's Connect 
