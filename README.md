@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Popins&weight=600&size=22&duration=6000&pause=1000&color=2784F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Kalp+Prajapati.;I'm+Software+Developer.)](https://git.io/typing-svg)
+![image](https://github.com/munnokd/munnokd/assets/81804004/926ba4c4-926e-45bf-93f4-34e59ba3a9f7)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Popins&weight=600&size=22&duration=6000&pause=1000&color=2784F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Kalp+Prajapati.;I'm+Software+Developer.)](https://git.io/typing-svg)
 <hr>
 <h3>Open Source Contributor</h3>
   
@@ -12,6 +12,8 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalp-prajapati-0409a020a)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kalp.prajapati.735)
   [	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__k_d_2525)
+  ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)(https://hashnode.com/@kalpPrajapati)
+
   
 </p>
 
