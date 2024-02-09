@@ -41,8 +41,8 @@
 <h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=munnokd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=munnokd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=chartreuse-dark&hide_border=false)<br/>
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=munnokd&theme=dark&hide_border=false)
   
 </div>
